@@ -2,6 +2,7 @@
 ## Material
 * 1 breadboard
 * 1 arduino or elegoo
+* 1 battery or usb cable
 * 1 red led
 * 1 resistor 220 Ohm
 * 3 connectors
