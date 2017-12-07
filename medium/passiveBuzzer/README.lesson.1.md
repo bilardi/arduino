@@ -15,3 +15,7 @@
 
 ## The featured circuit
 [Featured circuit](https://drive.google.com/open?id=1pwvaJoq3D8Yck4HIBF3HNRX_bRMyUNBe)
+
+## Code
+* [arduino](passiveBuzzer.lesson.1.ino)
+* [mBlock](https://drive.google.com/open?id=1iPxPbtDli54t9cRL97L-7tgFSNk2EtHu)
