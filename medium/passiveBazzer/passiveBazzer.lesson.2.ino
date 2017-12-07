@@ -22,13 +22,4 @@ void loop(){
         tone(12,294,500); // write to buzzer
         delay(500);
     }
-    _loop();
-}
-
-void _delay(float seconds){
-    long endTime = millis() + seconds * 1000;
-    while(millis() < endTime)_loop();
-}
-
-void _loop(){
 }
